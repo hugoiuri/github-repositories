@@ -1,0 +1,22 @@
+{
+  "name": "github-repositories",
+  "version": "1.0.0",
+  "description": "Este projeto tem como objetivo obter informações dos repositorios utilizando a API do GitHub",
+  "main": "index.js",
+  "engines": {
+    "node": "14.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugoiuri/github-repositories.git"
+  },
+  "author": "Hugo Iuri Cordeiro <contato@hugoiuri.dev>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugoiuri/github-repositories/issues"
+  },
+  "homepage": "https://github.com/hugoiuri/github-repositories#readme"
+}
