@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/hugoiuri/github-repositories/issues"
   },
-  "homepage": "https://github.com/hugoiuri/github-repositories#readme"
+  "homepage": "https://github.com/hugoiuri/github-repositories#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "googleapis": "^39.2.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.0"
+  }
 }
